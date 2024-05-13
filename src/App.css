@@ -1,0 +1,22 @@
+.mi-app{
+    width: 650px;
+    margin: auto;
+    text-align: center;
+}
+
+.titulo{
+    padding-top: 50px;
+    margin: auto;
+    text-align: center;
+}
+
+.titulo img{
+    width: 80px;
+}
+
+
+.icono-clima{
+    width: 30px;
+}
+
+
